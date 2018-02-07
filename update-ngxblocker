@@ -258,7 +258,7 @@ get_options() {
 }
 
 main() {
-	local REPO=https://raw.githubusercontent.com/xcorat/nginx-ultimate-bad-bot-blocker/master
+	local REPO=https://raw.githubusercontent.com/xcorat/nginx-ultimate-bad-bot-blocker/myrepo
 	local file=globalblacklist.conf remote_dir=conf.d url= output= update= status= tmp= retval=
 	# default to service (centos does not have 'which' by default)
 	local service=${service_cmd:-"service"}

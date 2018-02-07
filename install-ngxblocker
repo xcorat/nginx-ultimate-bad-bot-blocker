@@ -35,7 +35,7 @@
 CONF_DIR=/etc/nginx/conf.d
 BOTS_DIR=/etc/nginx/bots.d
 SCRIPT_DIR=/usr/sbin
-REPO=https://raw.githubusercontent.com/xcorat/nginx-ultimate-bad-bot-blocker/master
+REPO=https://raw.githubusercontent.com/xcorat/nginx-ultimate-bad-bot-blocker/myrepo
 
 ####### end user configuration ##########################
 
